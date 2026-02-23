@@ -10,7 +10,7 @@ This project demonstrates a scalable cloud architecture designed for high availa
 - Secure networking and load balancing
 
 ## Architecture Diagram
-![Architecture](images/architecture-diagram.png)
+![Architecture](https://github.com/Oluwatosin2006/cloud-solution-architecture/blob/main/Annotation%202026-02-23%20102121.png)
 
 ## Tools & Technologies
 - Kubernetes
